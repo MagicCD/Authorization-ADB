@@ -43,4 +43,4 @@ adb shell pm grant com.litebyte.samhelper android.permission.WRITE_SECURE_SETTIN
 
 8. 将此代码复制到 cmd命令窗口，按下回车即可完成授权
 
-![image-20220209022600103](使用 adb 授权 Sam Helper.assets/image-20220209022600103.png)
+<img src="使用 adb 授权 Sam Helper.assets/image-20220209022600103.png" alt="image-20220209022600103" style="zoom:80%;" />
