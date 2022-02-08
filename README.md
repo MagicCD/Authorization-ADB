@@ -29,7 +29,7 @@
 
 + 此时电脑会出现设备链接的列表，代表进入调试状态
 
-<img src="使用 adb 授权 Sam Helper.assets/Screenshot_20220209020815.jpg" alt="Screenshot_20220209020815" style="width: 40%;" /> <img src="使用 adb 授权 Sam Helper.assets/image-20220209022103097.png" alt="image-20220209022103097" style="width: 57%;" /><br>
+<img src="使用 adb 授权 Sam Helper.assets/Screenshot_20220209020815.jpg" alt="Screenshot_20220209020815" style="width: 33%;" /> <img src="使用 adb 授权 Sam Helper.assets/image-20220209022103097.png" alt="image-20220209022103097" style="width: 57%;" /><br>
 
 
 
