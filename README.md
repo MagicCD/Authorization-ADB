@@ -21,7 +21,7 @@
 
 6. 定位于文件目录下，如下图所示操作，进入 cmd命令运行窗口
 
-<img src="使用 adb 授权 Sam Helper.assets/image-20220209021706475.png" alt="image-20220209021706475" style="zoom:50%;" /> 
+<img src="使用 adb 授权 Sam Helper.assets/image-20220209021706475.png" alt="image-20220209021706475" style="width:70%;" /> 
 
 <br>
 
@@ -29,7 +29,7 @@
 
 + 此时电脑会出现设备链接的列表，代表进入调试状态
 
-<img src="使用 adb 授权 Sam Helper.assets/Screenshot_20220209020815.jpg" alt="Screenshot_20220209020815" style="zoom: 50%;" /> <img src="使用 adb 授权 Sam Helper.assets/image-20220209022103097.png" alt="image-20220209022103097" style="zoom: 67%;" /><br>
+<img src="使用 adb 授权 Sam Helper.assets/Screenshot_20220209020815.jpg" alt="Screenshot_20220209020815" style="width: 40%;" /> <img src="使用 adb 授权 Sam Helper.assets/image-20220209022103097.png" alt="image-20220209022103097" style="width: 57%;" /><br>
 
 
 
@@ -39,8 +39,8 @@
 adb shell pm grant com.litebyte.samhelper android.permission.WRITE_SECURE_SETTINGS
 ~~~
 
-<img src="使用 adb 授权 Sam Helper.assets/image-20220209015112298.png" alt="image-20220209015112298" style="zoom: 33%;" /> <br>
+<img src="使用 adb 授权 Sam Helper.assets/image-20220209015112298.png" alt="image-20220209015112298" style="width: 33%;" /> <br>
 
 8. 将此代码复制到 cmd命令窗口，按下回车即可完成授权
 
-<img src="使用 adb 授权 Sam Helper.assets/image-20220209022600103.png" alt="image-20220209022600103" style="zoom:80%;" />
+<img src="使用 adb 授权 Sam Helper.assets/image-20220209022600103.png" alt="image-20220209022600103" style="width:80%;" />
