@@ -3,15 +3,16 @@
 
 ## ❇️准备工具
 
-1. [ADB 工具包](https://github.com/MagicCD/Authorization-ADB/blob/main/platform-tools/platform-tools.zip)
-2. 软件 Sam Helper
+1. [ADB 工具包 Github下载](https://github.com/MagicCD/Authorization-ADB/blob/main/platform-tools/platform-tools.zip)
+2. [ADB 工具包 蓝奏云下载(推荐)](https://wwt.lanzouj.com/idHSczsbszc)
+3. 软件 Sam Helper
 
 ***
 <br>
 
 ## 🌟授权步骤
 
-1. 使用电脑先下载好 [ADB 工具包](https://github.com/MagicCD/Authorization-ADB/blob/main/platform-tools/platform-tools.zip)，并解压到你能找到的文件目录中
+1. 使用电脑先下载好 [ADB 工具包](https://wwt.lanzouj.com/idHSczsbszc)，并解压到你能找到的文件目录中
 2. 点开 设置——关于手机——软件信息——多次点击编译版号，直至出现开发者选项已启用字样
 3. 用数据线把手机和电脑链接
 4. 点开开发者选项，找到 USB 调试，点击打开
